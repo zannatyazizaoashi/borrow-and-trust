@@ -1,0 +1,5 @@
+config.php
+borrow_and_trust_full.sql
+.env
+.env.*
+*.log
